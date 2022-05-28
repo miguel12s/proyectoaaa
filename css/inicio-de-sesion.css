@@ -1,0 +1,33 @@
+.fondo-iniciodesesion{
+   background-color: rgb(94, 193, 210);
+
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin: 0px auto;
+    width: 50%;
+}
+form{
+  text-align: center;
+  margin-top: 20px;
+     
+}
+
+.form-group{
+   margin-top: 20px;
+}
+.form-group{
+  margin-top:20px;  
+}
+.boton-ingresar{
+    margin-top: 20px;
+    padding:80px;
+}
+
+label[examplecheck1]{
+  margin-top:25px;
+}
+.btn{
+  margin-top:30px;
+}
